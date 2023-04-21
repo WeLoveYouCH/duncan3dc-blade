@@ -1,5 +1,5 @@
 {
-    "name": "weloveyou/blade",
+    "name": "weloveyou/duncan3dc-blade",
     "type": "library",
     "description": "Use Laravel Blade templates without the full Laravel framework",
     "keywords": ["laravel", "templating", "template", "views"],
